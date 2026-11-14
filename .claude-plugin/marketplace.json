@@ -1,0 +1,14 @@
+{
+  "name": "power-platform-skills",
+  "description": "Skills para Power Automate e Power Apps (YAML / pacotes de importação)",
+  "owner": {
+    "name": "Gabriel Otto"
+  },
+  "plugins": [
+    {
+      "name": "power-platform",
+      "source": "./plugins/power-platform",
+      "description": "Gera e corrige fluxos do Power Automate (ZIP/soluções) e apps Power Apps em YAML (.pa.yaml/.msapp)"
+    }
+  ]
+}
