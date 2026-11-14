@@ -1,0 +1,10 @@
+{
+  "name": "power-platform",
+  "version": "1.0.0",
+  "description": "Gera e corrige fluxos do Power Automate (ZIP/soluções) e apps Power Apps em YAML (.pa.yaml/.msapp)",
+  "author": {
+    "name": "Gabriel Otto"
+  },
+  "homepage": "https://github.com/Gabriel-Otto/power-platform-skills",
+  "license": "MIT"
+}
